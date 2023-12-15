@@ -1,3 +1,10 @@
+<?php
+  function nav_item(string $lien, string $titre): string {
+    $html = '';
+    return $html;
+  }
+?>
+
 <!doctype html>
 <html lang="en">
   <head>
