@@ -1,5 +1,14 @@
 </main><!-- /.container -->
 
+<div class="row"> 
+    <div class="col-md-4"></div>
+    <div class="col-md-4"></div>
+    <div class="col-md-4">
+    <ul class="navbar-nav mr-auto">
+        <?php require 'menu.php' ?>     
+    </ul>
+    </div>
+</div>
 <!-- Bootstrap core JavaScript
 ================================================== -->
 <!-- Placed at the end of the document so the pages load faster -->
