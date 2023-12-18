@@ -4,8 +4,9 @@
     <div class="col-md-4"></div>
     <div class="col-md-4"></div>
     <div class="col-md-4">
-    <ul class="navbar-nav mr-auto">
-        <?php require 'menu.php' ?>     
+    <h5>Navigation</h5>
+    <ul class="list-unstyled text-small" >
+    <?= nav_menu(); ?>    
     </ul>
     </div>
 </div>
